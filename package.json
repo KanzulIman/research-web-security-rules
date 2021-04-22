@@ -1,0 +1,22 @@
+{
+  "name": "research-web-security-rules",
+  "version": "1.0.0",
+  "description": "Research web backend security rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanzulIman/research-web-security-rules.git"
+  },
+  "author": "Ayaan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanzulIman/research-web-security-rules/issues"
+  },
+  "homepage": "https://github.com/KanzulIman/research-web-security-rules#readme",
+  "dependencies": {
+    "firebase-tools": "^9.10.0"
+  }
+}
