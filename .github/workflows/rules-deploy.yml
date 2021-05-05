@@ -2,7 +2,9 @@ name: Firestore && Storage rules deploy
 
 on:
   push: 
-    branches: [master]
+    branches:
+      - master
+      - development
 
 jobs:
   deploy_rules:
